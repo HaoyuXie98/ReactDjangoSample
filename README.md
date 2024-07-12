@@ -1,0 +1,2 @@
+# ReactDjangoSample
+ TakeHomeAssignment
